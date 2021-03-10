@@ -15,6 +15,23 @@ Code Pen Link: https://codepen.io/swarnassd/pen/jOVQqGX?editors=110
 
 
 
+✅ Day 2:
+Pyramid "https://github.com/SwarnaSSD/100_Days_Of_CSS/tree/main/Day%203"
+
+Code Pen Link: https://codepen.io/swarnassd/pen/PobxyRE?editors=110
+
+<p align="center">
+ <img src="Assets\Day 2.gif" width="250">
+ </p>
+
+
+
+
+
+
+
+
+
 
 ✅ Day 87:
 The burning candle "https://swarnassd.github.io/100_Days_Of_CSS/DAY%201/test.html"
