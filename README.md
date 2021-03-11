@@ -3,7 +3,7 @@
 Reference: https://100dayscss.com/
 
 ✅ Day 1:
-Menu Icon "https://github.com/SwarnaSSD/100_Days_Of_CSS/tree/main/DAY%202"
+Menu Icon "https://github.com/SwarnaSSD/100_Days_Of_CSS/tree/main/DAY%201"
 
 Code Pen Link: https://codepen.io/swarnassd/pen/jOVQqGX?editors=110
 
@@ -12,16 +12,13 @@ Code Pen Link: https://codepen.io/swarnassd/pen/jOVQqGX?editors=110
  </p>
 
 ✅ Day 2:
-Pyramid "https://github.com/SwarnaSSD/100_Days_Of_CSS/tree/main/Day%203"
+Pyramid "https://github.com/SwarnaSSD/100_Days_Of_CSS/tree/main/Day%202"
 
 Code Pen Link: https://codepen.io/swarnassd/pen/PobxyRE?editors=110
 
 <p align="center">
  <img src="Assets\Day 2.gif" width="250">
  </p>
-
-
-
 
 ✅ Day 3:
 Bulge "https://github.com/SwarnaSSD/100_Days_Of_CSS/tree/main/Day%203"
@@ -32,10 +29,11 @@ Code Pen Link: https://codepen.io/swarnassd/pen/BaQvVBp?editors=110
  <img src="Assets\Day 3.gif" width="250">
  </p>
 
-
-
-
 ✅ Day 87:
-The burning candle "https://swarnassd.github.io/100_Days_Of_CSS/DAY%201/test.html"
+The burning candle "https://github.com/SwarnaSSD/100_Days_Of_CSS/tree/main/DAY%2087"
 
 Code Pen Link: https://codepen.io/swarnassd/pen/WNoarvO?editors=1100
+
+<p align="center">
+ <img src="Assets\Day 87.gif" width="250">
+ </p>
