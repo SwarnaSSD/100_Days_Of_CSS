@@ -60,9 +60,6 @@ Code Pen Link: https://codepen.io/swarnassd/pen/abBXxGq?editors=1000
  <img src="Assets\Day 6.gif" width="250">
  </p>
 
-
-
-
 ✅ Day 7:
 **Liquid** "https://github.com/SwarnaSSD/100_Days_Of_CSS/tree/main/Day%207"
 
@@ -72,15 +69,24 @@ Code Pen Link: https://codepen.io/swarnassd/pen/YzpgZpv?editors=110
  <img src="Assets\Day 7.gif" width="250">
  </p>
 
-
-
-✅ Day 7:
+✅ Day 8:
 **Liquid** "https://github.com/SwarnaSSD/100_Days_Of_CSS/tree/main/Day%208"
 
 Code Pen Link: https://codepen.io/swarnassd/pen/eYBXvKW?editors=110
 
 <p align="center">
  <img src="Assets\Day 8.gif" width="250">
+ </p>
+
+
+
+✅ Day 9:
+**Menu Icon** "https://github.com/SwarnaSSD/100_Days_Of_CSS/tree/main/Day%209"
+
+Code Pen Link: https://codepen.io/swarnassd/pen/MWbxNOy?editors=0100
+
+<p align="center">
+ <img src="Assets\Day 9.gif" width="250">
  </p>
 
 
