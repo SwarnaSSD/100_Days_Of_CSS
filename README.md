@@ -70,7 +70,7 @@ Code Pen Link: https://codepen.io/swarnassd/pen/YzpgZpv?editors=110
  </p>
 
 ✅ Day 8:
-**Liquid** "https://github.com/SwarnaSSD/100_Days_Of_CSS/tree/main/Day%208"
+**Weather** "https://github.com/SwarnaSSD/100_Days_Of_CSS/tree/main/Day%208"
 
 Code Pen Link: https://codepen.io/swarnassd/pen/eYBXvKW?editors=110
 
