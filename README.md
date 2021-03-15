@@ -81,7 +81,7 @@ Code Pen Link: https://codepen.io/swarnassd/pen/eYBXvKW?editors=110
 
 
 ✅ Day 9:
-**Menu Icon** "https://github.com/SwarnaSSD/100_Days_Of_CSS/tree/main/Day%209"
+**Digital Watch** "https://github.com/SwarnaSSD/100_Days_Of_CSS/tree/main/Day%209"
 
 Code Pen Link: https://codepen.io/swarnassd/pen/MWbxNOy?editors=0100
 
