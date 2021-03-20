@@ -78,8 +78,6 @@ Code Pen Link: https://codepen.io/swarnassd/pen/eYBXvKW?editors=110
  <img src="Assets\Day 8.gif" width="250">
  </p>
 
-
-
 ✅ Day 9:
 **Digital Watch** "https://github.com/SwarnaSSD/100_Days_Of_CSS/tree/main/Day%209"
 
@@ -87,6 +85,27 @@ Code Pen Link: https://codepen.io/swarnassd/pen/MWbxNOy?editors=0100
 
 <p align="center">
  <img src="Assets\Day 9.gif" width="250">
+ </p>
+
+
+
+✅ Day 10:
+**Walking Boots** "https://github.com/SwarnaSSD/100_Days_Of_CSS/tree/main/Day%210"
+
+Code Pen Link: https://codepen.io/swarnassd/pen/VwmoWdJ?editors=110
+
+<p align="center">
+ <img src="Assets\Day 10.gif" width="250">
+ </p>
+
+
+✅ Day 11:
+**PopUp** "https://github.com/SwarnaSSD/100_Days_Of_CSS/tree/main/Day%210"
+
+Code Pen Link: https://codepen.io/swarnassd/pen/dyOxzPy?editors=110
+
+<p align="center">
+ <img src="Assets\Day 11.gif" width="250">
  </p>
 
 
