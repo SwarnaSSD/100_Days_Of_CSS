@@ -88,7 +88,7 @@ Code Pen Link: https://codepen.io/swarnassd/pen/MWbxNOy?editors=0100
  </p>
 
 ✅ Day 10:
-**Walking Boots** "https://github.com/SwarnaSSD/100_Days_Of_CSS/tree/main/Day%210"
+**Walking Boots** "https://github.com/SwarnaSSD/100_Days_Of_CSS/tree/main/Day%2010"
 
 Code Pen Link: https://codepen.io/swarnassd/pen/VwmoWdJ?editors=110
 
@@ -97,7 +97,7 @@ Code Pen Link: https://codepen.io/swarnassd/pen/VwmoWdJ?editors=110
  </p>
 
 ✅ Day 11:
-**PopUp** "https://github.com/SwarnaSSD/100_Days_Of_CSS/tree/main/Day%211"
+**PopUp** "https://github.com/SwarnaSSD/100_Days_Of_CSS/tree/main/Day%2011"
 
 Code Pen Link: https://codepen.io/swarnassd/pen/dyOxzPy?editors=110
 
@@ -105,10 +105,8 @@ Code Pen Link: https://codepen.io/swarnassd/pen/dyOxzPy?editors=110
  <img src="Assets\Day 11.gif" width="250">
  </p>
 
-
-
 ✅ Day 12:
-**Gallery** "https://github.com/SwarnaSSD/100_Days_Of_CSS/tree/main/Day%212"
+**Gallery** "https://github.com/SwarnaSSD/100_Days_Of_CSS/tree/main/Day%2012"
 
 Code Pen Link: https://codepen.io/swarnassd/pen/YzNPEzx
 
@@ -116,15 +114,34 @@ Code Pen Link: https://codepen.io/swarnassd/pen/YzNPEzx
  <img src="Assets\Day 12.gif" width="250">
  </p>
 
-
-
 ✅ Day 13:
-**Cycle-Helicopter** "https://github.com/SwarnaSSD/100_Days_Of_CSS/tree/main/Day%213"
+**Cycle-Helicopter** "https://github.com/SwarnaSSD/100_Days_Of_CSS/tree/main/Day%2013"
 
 Code Pen Link: https://codepen.io/swarnassd/pen/Bapymbg?editors=110
 
 <p align="center">
  <img src="Assets\Day 13.gif" width="250">
+ </p>
+
+
+
+✅ Day 14:
+**Upload-File** "https://github.com/SwarnaSSD/100_Days_Of_CSS/tree/main/Day%2014"
+
+Code Pen Link: https://codepen.io/swarnassd/pen/jOyryxY
+
+<p align="center">
+ <img src="Assets\Day 14.gif" width="250">
+ </p>
+
+
+✅ Day 15:
+**Shapes** "https://github.com/SwarnaSSD/100_Days_Of_CSS/tree/main/Day%2015"
+
+Code Pen Link: https://codepen.io/swarnassd/pen/XWpKpQG?editors=110
+
+<p align="center">
+ <img src="Assets\Day 15.gif" width="250">
  </p>
 
 
