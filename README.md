@@ -123,8 +123,6 @@ Code Pen Link: https://codepen.io/swarnassd/pen/Bapymbg?editors=110
  <img src="Assets\Day 13.gif" width="250">
  </p>
 
-
-
 ✅ Day 14:
 **Upload-File** "https://github.com/SwarnaSSD/100_Days_Of_CSS/tree/main/Day%2014"
 
@@ -134,7 +132,6 @@ Code Pen Link: https://codepen.io/swarnassd/pen/jOyryxY
  <img src="Assets\Day 14.gif" width="250">
  </p>
 
-
 ✅ Day 15:
 **Shapes** "https://github.com/SwarnaSSD/100_Days_Of_CSS/tree/main/Day%2015"
 
@@ -142,6 +139,17 @@ Code Pen Link: https://codepen.io/swarnassd/pen/XWpKpQG?editors=110
 
 <p align="center">
  <img src="Assets\Day 15.gif" width="250">
+ </p>
+
+
+
+✅ Day 16:
+**Colour Triangle** "https://github.com/SwarnaSSD/100_Days_Of_CSS/tree/main/Day%2016"
+
+Code Pen Link: https://codepen.io/swarnassd/pen/ExZyqMP?editors=110
+
+<p align="center">
+ <img src="Assets\Day 16.gif" width="250">
  </p>
 
 
