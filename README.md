@@ -141,8 +141,6 @@ Code Pen Link: https://codepen.io/swarnassd/pen/XWpKpQG?editors=110
  <img src="Assets\Day 15.gif" width="250">
  </p>
 
-
-
 ✅ Day 16:
 **Colour Triangle** "https://github.com/SwarnaSSD/100_Days_Of_CSS/tree/main/Day%2016"
 
@@ -150,6 +148,29 @@ Code Pen Link: https://codepen.io/swarnassd/pen/ExZyqMP?editors=110
 
 <p align="center">
  <img src="Assets\Day 16.gif" width="250">
+ </p>
+
+
+
+
+
+✅ Day 17:
+**Elastic** "https://github.com/SwarnaSSD/100_Days_Of_CSS/tree/main/Day%2017"
+
+Code Pen Link: https://codepen.io/swarnassd/pen/VwPpoZB
+
+<p align="center">
+ <img src="Assets\Day 17.gif" width="250">
+ </p>
+
+
+✅ Day 18:
+**Colour Slides** "https://github.com/SwarnaSSD/100_Days_Of_CSS/tree/main/Day%2018"
+
+Code Pen Link: https://codepen.io/swarnassd/pen/mdRWNGd
+
+<p align="center">
+ <img src="Assets\Day 18.gif" width="250">
  </p>
 
 
