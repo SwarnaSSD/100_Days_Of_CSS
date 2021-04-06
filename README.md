@@ -168,10 +168,6 @@ Code Pen Link: https://codepen.io/swarnassd/pen/mdRWNGd
  <img src="Assets\Day 18.gif" width="250">
  </p>
 
-
-
-
-
 ✅ Day 19:
 **Send Mail** "https://github.com/SwarnaSSD/100_Days_Of_CSS/tree/main/Day%2019"
 
@@ -179,6 +175,17 @@ Code Pen Link: https://codepen.io/swarnassd/pen/abpWYrW?editors=110
 
 <p align="center">
  <img src="Assets\Day 19.gif" width="250">
+ </p>
+
+
+
+✅ Day 19:
+**Emoji-Dots** "https://github.com/SwarnaSSD/100_Days_Of_CSS/tree/main/Day%2019"
+
+Code Pen Link: https://codepen.io/swarnassd/pen/ExZvLKy?editors=110
+
+<p align="center">
+ <img src="Assets\Day 20.gif" width="250">
  </p>
 
 
